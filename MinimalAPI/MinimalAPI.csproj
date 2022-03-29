@@ -7,7 +7,8 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="Swagger.Net.UI" Version="1.1.0" />
+      <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.0" />
+      <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.3.0" />
     </ItemGroup>
 
 </Project>
